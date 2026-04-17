@@ -1,0 +1,29 @@
+# API key — never commit
+Templates/Config.md
+
+# Trade data — private, stays local only
+Trades/
+Trader Profile.md
+
+
+# Obsidian workspace
+.obsidian/workspace*
+.obsidian/cache
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor junk
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Local scratch
+scratch/
+*.local.md
